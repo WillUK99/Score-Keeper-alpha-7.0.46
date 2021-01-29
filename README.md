@@ -16,3 +16,4 @@ The overall styling is visually appealing with an imported font-family styling t
 of an arcade feel.
 
 #### Thank you for reading.
+Live site: https://score-keeper-alpha-7-0-46-h43wnr02w.vercel.app/
